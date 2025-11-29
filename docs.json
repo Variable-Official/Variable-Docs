@@ -11,12 +11,20 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Intro",
         "groups": [
           {
-            "group": "Getting Started",
+            "group": "Variable Information",
+            "icon": "book",
             "pages": [
-              "index",
+              "index"
+            ]
+          },
+          {
+            "group": "Variable Bots",
+            "icon": "bot",
+            "tag": "NEW",
+            "pages": [
               "COSMO"
             ]
           }
