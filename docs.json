@@ -17,7 +17,9 @@
             "group": "Variable Information",
             "icon": "book",
             "pages": [
-              "index"
+              "index",
+              "TOS",
+              "Privacy-Policy"
             ]
           },
           {
