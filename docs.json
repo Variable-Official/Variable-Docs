@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Variable",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#121112",
+    "light": "#1E1E1F",
+    "dark": "#050008"
   },
   "favicon": "/favicon.svg",
   "navigation": {
